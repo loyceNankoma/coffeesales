@@ -1,1 +1,2 @@
-# coffeesales
+# coffee Sales from a vending machine
+In this analysis, we examine coffee sales from a vending machine to identify key factors influencing sales performance, customer preferences, and potential areas for optimization. By Using statistical summaries, visualizations, and correlation analyses, we aim to uncover trends in sales volume, peak purchasing times, seasonal variations, and the impact of pricing or promotions. This EDA will provide valuable insights for improving inventory management, pricing strategies, and customer satisfaction
